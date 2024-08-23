@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+  {
+    "matchPackageNames": ["xmldoc"],
+    "assignees": ["RahulGautamSingh"]
+  },
+  {
+    "matchPackageNames": ["chalk"],
+    "assignees": ["RahulGautamSingh-testing"]
+  }
+ ]
+}
